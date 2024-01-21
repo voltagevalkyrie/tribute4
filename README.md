@@ -19,7 +19,7 @@ This repository contains a simple webpage built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the [live demo](#) to see the webpage in action.
+Check out the [live demo](https://ikigai-zeta.vercel.app/) to see the webpage in action.
 
 ## Installation
 
